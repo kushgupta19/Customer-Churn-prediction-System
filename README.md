@@ -1,1 +1,2 @@
-# Customer-Churn-prediction-System
+# Customer_churn_prediction
+Customer churn prediction
